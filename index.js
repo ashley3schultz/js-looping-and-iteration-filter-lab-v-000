@@ -17,3 +17,8 @@ function matchName(arr, string) {
   }
   return col
 }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 81ed319838ed7c4531794980a0c79305979c2da2
